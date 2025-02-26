@@ -1,7 +1,8 @@
 <h1 align="center">🔍 Roblox Inventory Checker Bot</h1>
+
 <p align="center">
-    <b>A powerful Discord bot to check if a Roblox user owns a specific item.</b><br>
-    Uses Roblox's Inventory API and provides rich Discord embed responses.
+    <i>A powerful and efficient Discord bot that allows users to verify whether a Roblox user owns a specific item.</i>  
+    <br>Built with <b>Python</b>, <b>Discord.py</b>, and <b>Roblox's Inventory API</b>.
 </p>
 
 <p align="center">
@@ -14,14 +15,14 @@
 ---
 
 ## 📌 About This Project
-This bot allows users to **verify whether a Roblox user owns a specific item** using the **`/check`** slash command.  
-Built using **Python** and **Discord.py**, it interacts with **Roblox's Inventory API** and returns results in a **modern embed format**.
+Roblox Inventory Checker Bot is a **feature-rich Discord bot** that enables users to check whether a **Roblox user owns a specific item**.  
+It is built using **Python** and **Discord.py** and seamlessly integrates with **Roblox's Inventory API**, providing a smooth and **modern embed-based** response system.
 
 ### ⚡ Key Features
-✅ **Check Roblox inventory** – Instantly verify item ownership.  
-🎨 **Modern embed responses** – Aesthetic and structured messages.  
-📡 **Advanced logging** – Tracks bot activity and API errors.  
-🚀 **Slash command integration** – Uses Discord's latest interaction system.  
+✔️ **Check Roblox inventory** – Verify item ownership instantly.  
+🎨 **Modern embed responses** – Aesthetic, structured, and easy to read.  
+📡 **Advanced logging** – Tracks bot activity and API errors in real-time.  
+🚀 **Discord Slash Commands** – Uses the latest `/check` command system.  
 
 ---
 
@@ -30,4 +31,4 @@ Built using **Python** and **Discord.py**, it interacts with **Roblox's Inventor
 ### 📥 1. Clone the Repository
 ```sh
 git clone https://github.com/bed0c/Roblox-Inventory-Checker-Bot.git
-cd repo-name
+cd Roblox-Inventory-Checker-Bot
