@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Python-3.8+-blue.svg" alt="Python 3.8+">
     <img src="https://img.shields.io/badge/Discord.py-2.3.2-blue.svg" alt="Discord.py 2.3.2">
     <img src="https://img.shields.io/badge/Status-Online-brightgreen.svg" alt="Status">
-    <img src="https://img.shields.io/github/license/your-username/repo-name.svg" alt="License">
+    <img src="https://img.shields.io/github/license/bed0c/Roblox-Inventory-Checker-Bot.svg" alt="License">
 </p>
 
 ---
@@ -29,5 +29,5 @@ Built using **Python** and **Discord.py**, it interacts with **Roblox's Inventor
 
 ### 📥 1. Clone the Repository
 ```sh
-git clone https://github.com/your-username/repo-name.git
+git clone https://github.com/bed0c/Roblox-Inventory-Checker-Bot.git
 cd repo-name
